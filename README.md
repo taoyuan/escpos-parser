@@ -1,4 +1,7 @@
-# esctrine [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# esctrine 
+
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
 > ESC/POS parser
 
 
@@ -11,11 +14,7 @@ $ npm install --save esctrine
 
 ## Usage
 
-```js
-var esctrine = require('esctrine');
-
-esctrine('Rainbow');
-```
+Coming Soon
 
 ## License
 
