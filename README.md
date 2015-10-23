@@ -1,4 +1,4 @@
-# esctrine 
+# escpos-parser 
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
@@ -8,7 +8,7 @@
 ## Install
 
 ```sh
-$ npm install --save esctrine
+$ npm install --save escpos-parser
 ```
 
 
@@ -21,9 +21,9 @@ See examples
 MIT © [taoyuan]()
 
 
-[npm-image]: https://badge.fury.io/js/esctrine.svg
-[npm-url]: https://npmjs.org/package/esctrine
-[travis-image]: https://travis-ci.org/taoyuan/esctrine.svg?branch=master
-[travis-url]: https://travis-ci.org/taoyuan/esctrine
-[daviddm-image]: https://david-dm.org/taoyuan/esctrine.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/taoyuan/esctrine
+[npm-image]: https://badge.fury.io/js/escpos-parser.svg
+[npm-url]: https://npmjs.org/package/escpos-parser
+[travis-image]: https://travis-ci.org/taoyuan/escpos-parser.svg?branch=master
+[travis-url]: https://travis-ci.org/taoyuan/escpos-parser
+[daviddm-image]: https://david-dm.org/taoyuan/escpos-parser.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/taoyuan/escpos-parser

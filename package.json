@@ -1,8 +1,8 @@
 {
-  "name": "esctrine",
-  "version": "0.0.0",
+  "name": "escpos-parser",
+  "version": "0.1.0",
   "description": "ESC/POS parser",
-  "homepage": "https://github.com/taoyuan/esctrine",
+  "homepage": "https://github.com/taoyuan/escpos-parser",
   "author": {
     "name": "taoyuan",
     "email": "towyuan@outlook.com",
@@ -17,7 +17,7 @@
     "parse",
     "parser"
   ],
-  "repository": "taoyuan/esctrine",
+  "repository": "taoyuan/escpos-parser",
   "dependencies": {
     "iconv-lite": "^0.4.13",
     "lodash": "^3.10.1"
