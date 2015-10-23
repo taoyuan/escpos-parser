@@ -1,13 +1,18 @@
 'use strict';
 
 var iconv = require('iconv-lite');
-iconv.extendNodeEncodings();
-
-var data = require('./data');
 var Parser = require('../').Parser;
 
 var parser = new Parser();
 
-var content = parser.parse(data);
+var result;
 
-console.log(content.toString('GB2312'));
+result = parser.parse(require('./receipt1'));
+console.log('[receipt1]');
+console.log(iconv.decode(result, 'GB2312'));
+console.log('****************************');
+
+result = parser.parse(require('./receipt2'));
+console.log('[receipt2]');
+console.log(iconv.decode(result, 'GB2312'));
+console.log('****************************');
