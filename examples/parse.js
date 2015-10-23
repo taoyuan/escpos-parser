@@ -9,10 +9,12 @@ var result;
 
 result = parser.parse(require('./receipt1'));
 console.log('[receipt1]');
-console.log(iconv.decode(result, 'GB2312'));
+console.log(result.commands);
+console.log(iconv.decode(result.content, 'GB2312'));
 console.log('****************************');
 
 result = parser.parse(require('./receipt2'));
 console.log('[receipt2]');
-console.log(iconv.decode(result, 'GB2312'));
+console.log(result.commands);
+console.log(iconv.decode(result.content, 'GB2312'));
 console.log('****************************');
