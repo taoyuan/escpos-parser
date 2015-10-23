@@ -14,7 +14,7 @@ $ npm install --save esctrine
 
 ## Usage
 
-Coming Soon
+See examples
 
 ## License
 
