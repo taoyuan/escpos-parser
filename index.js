@@ -2,4 +2,4 @@
 
 exports.Parser = require('./lib/parser');
 
-exports.constants = require('./lib/constants');
+exports.symbols = require('./lib/symbols');
