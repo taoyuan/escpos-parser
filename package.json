@@ -1,6 +1,6 @@
 {
   "name": "escpos-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESC/POS parser",
   "homepage": "https://github.com/taoyuan/escpos-parser",
   "author": {
