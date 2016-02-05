@@ -18,6 +18,9 @@
     "parser"
   ],
   "repository": "taoyuan/escpos-parser",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "dependencies": {
     "iconv-lite": "^0.4.13",
     "lodash": "^4.2.1"
