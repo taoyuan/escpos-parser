@@ -20,19 +20,18 @@
   "repository": "taoyuan/escpos-parser",
   "dependencies": {
     "iconv-lite": "^0.4.13",
-    "lodash": "^3.10.1"
+    "lodash": "^4.2.1"
   },
   "devDependencies": {
-    "gulp": "^3.6.0",
-    "gulp-eslint": "^1.0.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.1.1",
     "gulp-exclude-gitignore": "^1.0.0",
-    "gulp-istanbul": "^0.9.0",
-    "gulp-mocha": "^2.0.0",
-    "gulp-plumber": "^1.0.0",
-    "gulp-nsp": "^0.4.5"
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-nsp": "^2.3.0"
   },
   "scripts": {
-    "prepublish": "gulp prepublish",
     "test": "gulp"
   },
   "license": "MIT"
