@@ -1,5 +1,7 @@
 # escpos-parser 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/escpos-parser.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
 > ESC/POS parser
